@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @siddhesh1996
 - 👀 I’m interested in anything that's related to computer, gadgets and programming
-- 🌱 I’m currently learning GO lang
 - 💞️ I’m looking to collaborate on anything that can add value to the project
 - 📫 How to reach me on email @ --> ksiddhesh96.sk@gmail.com
 
